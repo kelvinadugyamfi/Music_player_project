@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #e0e8ff;
+    /* background-image: url(../images/pattern-background-desktop.svg); */
+    /* background-image: url(../images/pattern-background-mobile.svg); */
+    /* background-size: 100%; */
+    /* background-position: fixed; */
+    background-repeat: no-repeat;
+    /* border: 1px solid ; */
+}
+
+
+#formControl{
+    background-position: relative;
+    margin-top: 7%;
+    margin-left: 35%;
+    width: 24.9%;
+    background-color: white;
+    border-radius: 20px;
+
+}
+
+#form{
+    display: block;
+    height: 75vh;
+    background-color: white;
+    border-radius: 20px;
+}
+
+#pic{
+    height: 25vh; 
+    /* background-color: white;   */
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+
+
+}
+
+p{
+    text-align: center;
+    font-size: 14px;
+    margin: 20px;
+    background-color: white;
+}
+
+strong{
+    background-color: white;
+}
+
+
+#cont{
+    display:flex;
+    padding: 10px;
+    margin-left: 50px;
+    border-radius: 6px;
+    width: 68%;
+    background-color: #f8f9fe;
+}
+
+#payment{
+    display: block;
+    margin: 20px;
+    margin-left: 58px;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px;
+    width: 60%;
+    background-color: #382ae1;
+    color: white;
+    border-radius: 10px;
+}
+
+#cancel{
+    display: block;
+    margin: 20px;
+    text-decoration: none;
+    color: #7b8398;
+    text-align: center;
+    background-color: white;
+}
+
+#plan{
+    display: inline-flex;
+    margin-left: 10px;
+    font-size: smaller ;
+    text-align: justify;
+    background-color: #f8f9fe;
+    padding-top: 5px;
+
+}
+
+#icon{
+    display: flex;
+    /* margin: 5px; */
+    background-color: #f8f9fe;
+
+
+}
+
+#ch{
+    display: flex;
+    margin-left: 40px;
+    text-align: justify;
+    /* text-decoration: none; */
+    background-color: #f8f9fe;
+    padding-top: 5px;
+
+
+}
+
+body,html{
+    background-color: #e0e8ff;
+    background-image: url(../images/pattern-background-desktop.svg);
+
+}
