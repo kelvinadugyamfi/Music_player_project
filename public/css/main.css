@@ -33,8 +33,6 @@
     /* background-color: white;   */
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
-
-
 }
 
 p{
@@ -93,7 +91,7 @@ strong{
 #icon{
     display: flex;
     /* margin: 5px; */
-    background-color: #f8f9fe;
+    background-color: transparent;
 
 
 }
